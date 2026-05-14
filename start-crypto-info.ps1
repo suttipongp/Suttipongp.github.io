@@ -1,2 +1,2 @@
 $project = Split-Path -Parent $MyInvocation.MyCommand.Path
-Start-Process (Join-Path $project "index.html")
+Start-Process (Join-Path $project "crypto-info\index.html")
